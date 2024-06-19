@@ -3,7 +3,7 @@ Mannequin Core
 
 [![Packagist](https://img.shields.io/packagist/v/lastcall/mannequin-core.svg)](https://packagist.org/packages/lastcall/mannequin-core)
 
-Contains the CLI and common code for [Mannequin](https://github.com/LastCallMedia/Mannequin).  Please file any bug reports or feature requests to the [main repository](https://github.com/LastCallMedia/Mannequin).
+Mannequin Core is brought to you by your friends at [Last Call Media](https://www.lastcallmedia.com), it contains the CLI and common code for [Mannequin](https://github.com/LastCallMedia/Mannequin).  Please file any bug reports or feature requests to the [main repository](https://github.com/LastCallMedia/Mannequin).
 
 When would I use this?
 -----------------------
